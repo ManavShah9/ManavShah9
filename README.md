@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManavShah9
-- 👀 I’m interested in Data Analysis , Data Science & AIML
+- 👀 I’m interested in Data Science & AIML
 - 🌱 I’m currently learning Data Analysis
 
 
